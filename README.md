@@ -4,7 +4,7 @@ I mainly program in python, and other languages (such as js) when better-suited 
 
 - 🌱 I’m currently learning Java
 - 😄 Pronouns: He/him
-- 📫 How to reach me: [Discord(Infinity#1056)](https://discord.gg/nacfvPB) [Snapchat](https://www.snapchat.com/add/infinitelydev) [Email](mailto:infinity@infinitydev.org.uk)
+- 📫 How to reach me: [See my socials on my website](https://infinitydev.org.uk/#socials)
 - ⚡ Fun fact: Pineapple does not belong on pizza
 
 <!--
