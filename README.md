@@ -7,14 +7,16 @@ Languages I know:
 - JS (mediocre, familiar with node framework and express)
 - Java (mediocre, not familiar with all inbuilt libraries as this is rarely my language of choice)
 - C++ (mediocre, currently improving my knowledge)
+  
 Techniques I use:
 - Asynchronous programming and multi-threading
 - Lambdas and wrapper functions
 
-- 🌱 I’m currently learning Vulkan in C++
-- 😄 Pronouns: He/him
-- 📫 How to reach me: [See my socials on my website](https://infinitydev.org.uk/#socials)
-- ⚡ Fun fact: Pineapple does not belong on pizza
+
+🌱 I’m currently learning Vulkan in C++
+😄 Pronouns: He/him
+📫 How to reach me: [See my socials on my website](https://infinitydev.org.uk/#socials)
+⚡ Fun fact: Pineapple does not belong on pizza
 
 <!--
 **TrainsRAwesome/TrainsRAwesome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
