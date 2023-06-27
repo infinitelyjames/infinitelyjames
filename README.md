@@ -4,14 +4,13 @@ I'm a student who mainly programs in python, and other languages (such as js) wh
 I don't always use GitHub to track my projects, hence if there are gaps it's probably because I'm working on something else.
 
 #### Languages I know
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=infinitelyjames)](https://github.com/infinitelyjames)
-
-based on data from my public repos (not everything)
 - Python (adept, used packages such as requests, qt5, flask and many more)
 - JS (mediocre, familiar with node framework and express)
 - Java (mediocre, not familiar with all inbuilt libraries as this is rarely my language of choice)
 - C++ (mediocre, currently improving my knowledge)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=infinitelyjames)](https://github.com/infinitelyjames)
+
+based on data from my public repos (not everything)
   
 #### Techniques I've used
 - Asynchronous programming and multi-threading
