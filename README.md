@@ -3,6 +3,8 @@
 I'm a student who mainly programs in python, and other languages (such as js) when better-suited to the project. I program in my free time, coding whatever takes my fancy. Like some others, I also share an interest in cyber security and malware analysis.
 I don't always use GitHub to track my projects, hence if there are gaps it's probably because I'm working on something else.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=infinitelyjames)](https://github.com/infinitelyjames)
+
 #### Languages I know
 - Python (adept, used packages such as requests, qt5, flask and many more)
 - JS (mediocre, familiar with node framework and express)
@@ -23,7 +25,7 @@ I don't always use GitHub to track my projects, hence if there are gaps it's pro
 
 ⚡ Fun fact: Pineapple does not belong on pizza
 
-[![Profile Stats](https://github-readme-stats.vercel.app/api?username=infinitelyjames)](https://github.com/infinitelyjames)
+
 
 <!--
 **TrainsRAwesome/TrainsRAwesome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
