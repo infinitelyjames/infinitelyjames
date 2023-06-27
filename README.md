@@ -23,6 +23,8 @@ I don't always use GitHub to track my projects, hence if there are gaps it's pro
 
 ⚡ Fun fact: Pineapple does not belong on pizza
 
+[![Profile Stats](https://github-readme-stats.vercel.app/api?username=infinitelyjames)](https://github.com/infinitelyjames)
+
 <!--
 **TrainsRAwesome/TrainsRAwesome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
