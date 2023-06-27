@@ -11,7 +11,7 @@ I don't always use GitHub to track my projects, hence if there are gaps it's pro
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=infinitelyjames)](https://github.com/infinitelyjames)
 
-based on data from my public repos (not everything)
+based on data from my public repos (not much is public and on github)
   
 #### Techniques I've used
 - Asynchronous programming and multi-threading
