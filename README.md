@@ -8,7 +8,7 @@ I don't always use GitHub to track my projects, hence if there are gaps it's pro
 - JS (mediocre, familiar with node framework and express)
 - Java (mediocre, not familiar with all inbuilt libraries as this is rarely my language of choice)
 - C++ (mediocre, currently improving my knowledge)
-- 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=infinitelyjames)](https://github.com/infinitelyjames)
 
 based on data from my public repos (not everything)
