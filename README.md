@@ -1,26 +1,18 @@
 ### Hi there 👋
 
-I'm a student who mainly programs in a variety of languages in my free time, coding whatever takes my fancy. Like some others, I also share an interest in cyber security and malware analysis.
+I'm a student who mainly programs in a variety of languages in my free time, coding whatever takes my fancy. 
 I don't always use GitHub to track my projects, hence if there are gaps it's probably because I'm working on something else.
+Most of my repositories are private, sometimes I create a public clone once I've finished them, but the vast majority are 98% finished.
 
 #### Languages I know
 - Python (adept, used packages such as requests, qt5, flask and many more)
 - JS (mediocre, familiar with node framework and express)
 - Java (mediocre, not familiar with all inbuilt libraries as this is rarely my language of choice)
-- C++ (mediocre, currently improving my knowledge)
-- Dart
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=infinitelyjames)](https://github.com/infinitelyjames)
-
-based on data from my public repos (not much is public and on github)
-  
-#### Techniques I've used
-- Asynchronous programming and multi-threading
-- Lambdas and wrapper functions
-- Event-driven programming
+- Dart (know syntax and methods required for flutter)
+- C++ (low)
 
 
-🌱 I’m currently learning Vulkan in C++
+🌱 I'm currently working on a mobile app in Flutter
 
 😄 Pronouns: He/him
 
