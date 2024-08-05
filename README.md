@@ -20,7 +20,7 @@ Most of my repositories are private - sometimes I create a public clone once I'v
 
 ⚡ Fun fact: Pineapple does not belong on pizza
 
-###### If you read to the end, have a nice day :)
+###### If you're reading this, have a nice day :)
 
 
 
