@@ -2,7 +2,7 @@
 
 I'm a student who mainly programs in a variety of languages in my free time, coding whatever takes my fancy. 
 I don't always use GitHub to track my projects, hence if there are gaps it's probably because I'm working on something else.
-Most of my repositories are private, sometimes I create a public clone once I've finished them, but the vast majority are 98% finished.
+Most of my repositories are private - sometimes I create a public clone once I've finished them, but the vast majority are 98% finished.
 
 #### Languages I know
 - Python (adept, used packages such as requests, qt5, flask and many more)
@@ -19,6 +19,8 @@ Most of my repositories are private, sometimes I create a public clone once I've
 📫 How to reach me: [See my socials on my website](https://infinitydev.org.uk/#socials)
 
 ⚡ Fun fact: Pineapple does not belong on pizza
+
+-# If you read to the end, have a nice day :)
 
 
 
