@@ -8,11 +8,12 @@ Most of my repositories are private - sometimes I create a public clone once I'v
 - Python (adept, used packages such as requests, qt5, flask and many more)
 - JS (mediocre, familiar with node framework and express)
 - Java (mediocre, not familiar with all inbuilt libraries as this is rarely my language of choice)
-- Dart (know syntax and methods required for flutter)
+- Dart (know syntax and methods required for flutter, favourite language)
+- Haskell (learning)
 - C++ (low)
 
 
-🌱 I'm currently working on a mobile app in Flutter
+🌱 I'm currently working on a mobile app in Flutter, and some funky Haskell stuff
 
 😄 Pronouns: He/him
 
